@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ShkolPlay</string>
+    <string name="nav_profile">Профиль</string>
+    <string name="nav_login">Вход</string>
+    <string name="nav_register">Регистрация</string>
+    <string name="nav_books">Книги</string>
+    <string name="nav_splash">splash</string>
+    <string name="nav_menu">Игры</string>
+    <string name="nav_forgot_password">Восстановление пароля</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_memory">Память</string>
+    <string name="nav_math">Математика</string>
+    <string name="nav_groups">Группы</string>
+    <string name="nav_students">Ученики</string>
+    <string name="nav_rate">Общий рейтинг</string>
+    <string name="nav_teachers">Учителя</string>
+
+
+    <string name="logo">Логотип</string>
+    <string name="username">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="role">Роль</string>
+    <string name="notes">Заметки</string>
+    <string name="password">Пароль</string>
+    <string name="old_password">Старый пароль</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="passwordAgain">Пароль еще раз</string>
+    <string name="email">Эл. почта</string>
+    <string name="hide_password">Скрыть пароль</string>
+    <string name="show_password">Показать пароль</string>
+    <string name="change_field">Изменить поле</string>
+    <string name="change">Изменить</string>
+    <string name="cancel_changing">Отменить изменение</string>
+    <string name="back">Назад</string>
+    <string name="forgot_password">Забыли пароль</string>
+    <string name="signin">Войти</string>
+    <string name="cancel">Отменить</string>
+    <string name="update_password">Обновить пароль</string>
+    <string name="save">Сохранить</string>
+    <string name="successful_update">Данные успешно обновлены</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="has_account">Есть аккаунт?</string>
+    <string name="has_no_account">Нет аккаунта?</string>
+
+
+    <string name="nothing_found">Пока пусто</string>
+    <string name="collapse">Свернуть</string>
+    <string name="close">Закрыть</string>
+    <string name="more">Подробнее</string>
+    <string name="go_to">Перейти</string>
+    <string name="delete">Удалить</string>
+    <string name="logout">Выйти</string>
+    <string name="search">Найти</string>
+    <string name="settings">Настройки</string>
+    <string name="level">Уровень</string>
+    <string name="filter">Фильтр</string>
+    <string name="favorite">Избранное</string>
+    <string name="name">Название</string>
+</resources>
