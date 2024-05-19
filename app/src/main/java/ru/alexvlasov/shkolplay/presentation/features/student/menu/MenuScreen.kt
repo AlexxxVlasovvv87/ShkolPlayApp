@@ -73,12 +73,13 @@ fun MenuScreen(
                 }
                 Button(
                     modifier = Modifier.fillMaxWidth().padding(16.dp),
-                    enabled = false,
-                    onClick = {},
+                    onClick = {
+                        navController.navigate(NavigationItem.MathGame.route)
+                    },
                 ) {
                     Text(
                         modifier = Modifier.padding(16.dp),
-                        text = "Скоро",
+                        text = "Физика",
                         fontSize = MaterialTheme.typography.headlineMedium.fontSize,
                     )
                 }

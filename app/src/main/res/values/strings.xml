@@ -5,7 +5,7 @@
     <string name="nav_register">Регистрация</string>
     <string name="nav_books">Книги</string>
     <string name="nav_splash">splash</string>
-    <string name="nav_menu">Игры</string>
+    <string name="nav_menu">Тренажёры</string>
     <string name="nav_forgot_password">Восстановление пароля</string>
     <string name="nav_settings">Настройки</string>
     <string name="nav_memory">Память</string>
